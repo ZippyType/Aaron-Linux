@@ -1,2 +1,1 @@
-# Aaron-Linux
-Linux Distro.
+# Aaron Linux
