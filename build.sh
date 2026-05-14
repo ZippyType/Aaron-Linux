@@ -153,8 +153,8 @@ ID=aaronlinux
 ID_LIKE=debian
 PRETTY_NAME="Aaron Linux 1.0.0"
 VERSION_ID="1.0.0"
-HOME_URL="https://github.com/AaronLinux"
-BUG_REPORT_URL="https://github.com/AaronLinux/issues"
+HOME_URL="https://github.com/ZippyType/Aaron-Linux"
+BUG_REPORT_URL="https://github.com/ZippyType/Aaron-Linux/issues"
 EOF
 
     # Create network interfaces
