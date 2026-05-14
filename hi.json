@@ -1,0 +1,10 @@
+{
+  "name": "Test User",
+  "age": 27,
+  "active": true,
+  "scores": [88, 92, 79, 95],
+  "metadata": {
+    "created": "2026-05-14T18:26:00Z",
+    "tags": ["demo", "test", "json"]
+  }
+}
